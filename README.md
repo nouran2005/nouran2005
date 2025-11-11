@@ -1,16 +1,27 @@
-# Nouran Samer
 
-<!-- Centered Profile Image -->
-<p align="center">
-  <img src="https://github.com/nouran2005.png" width="120px" height="120px" style="border-radius:50%; border:3px solid #FF5733;">
-</p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/mhmodfrmwi/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Profile%20%F0%9F%8C%90;Flutter%20Developer%20%F0%9F%9A%80;Always%20Learning%20%F0%9F%92%AB&font=Fira%20Code&center=true&width=500&height=45&color=FF5733&vCenter=true&size=22">
+<h1>
+  Welcome to Nouran Samer's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
+
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=false&width=450&height=45&color=f75c7e&vCenter=true&size=22">
   </a>
 </p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=nouran2005&style=for-the-badge&color=ff69b4" alt="Profile Views">
+</p>
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"style="margin-top:30px;" />
+
+- 👩‍💻 Junior **Flutter Developer** building modern, scalable cross-platform apps  
+- 🧩 State Management: **Bloc, Cubit, Provider** | 🔌 API Integration: **Dio / http / retrofit **  
+- 🔥 Firebase (Auth & Firestore) | 🧱 Clean Architecture / MVVM / MVI 
+- 🎨 Passionate about crafting **smooth UI/UX**  
+
+👨‍💻 Check out my CV: [*My CV*](https://drive.google.com/file/d/1HY0JuhY62dvQYu3GcjCfrjPRLRB0I8-t/view?usp=sharing)  
 
 ---
 
@@ -28,29 +39,81 @@
 
 ---
 
-## 👩‍💻 About Me
-
-Junior **Flutter Developer** experienced in building dynamic and scalable cross-platform mobile applications.  
-Proficient in:
-- **Flutter & Dart**
-- **State Management:** Bloc, Cubit, Provider
-- **RESTful APIs (Dio, http)**
-- **Firebase (Auth & Firestore)**
-- **Clean Architecture & MVVM**
-- Applying **Machine Learning** to enhance app functionality
-
-Passionate about **UI/UX**, performance optimization, and seamless user experiences.
-
----
-
 ## 🛠 Tech Stack
+### 🧩 Languages:
 
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="40"/>
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
+  </a>
+</p>
+
+### ⚙ Frameworks & Libraries:
+
+<p align="left">
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+
+  <a href="https://bloclibrary.dev/#/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/felangel/bloc/master/docs/assets/bloc_logo.png" alt="bloc" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+</p>
+
+### 🗄 Databases:
+
+<p align="left">
+  <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firestore" width="40" height="40"/>
+  </a>
+</p>
+
+### 🧠 Tools:
+
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -65,10 +128,6 @@ Passionate about **UI/UX**, performance optimization, and seamless user experien
 
 ---
 
-## 👁 Profile Views
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nouran2005&style=for-the-badge&color=red" alt="Profile Views">
-</p>
 
----
+
