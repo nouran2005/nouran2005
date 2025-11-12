@@ -125,10 +125,3 @@
 </p>
 
 ---
-
-## 🐍 GitHub Contribution Snake  
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nouran2005/nouran2005/output/snake.svg" alt="Snake animation" />
-</p>
