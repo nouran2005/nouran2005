@@ -1,5 +1,3 @@
-
-
 <h1>
   Welcome to Nouran Samer's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -128,6 +126,9 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake  
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nouran2005/nouran2005/output/snake.svg" alt="Snake animation" />
+</p>
