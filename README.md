@@ -18,8 +18,9 @@
 - 🧩 State Management: **Bloc, Cubit, Provider** | 🔌 API Integration: **Dio / http / retrofit **  
 - 🔥 Firebase (Auth & Firestore) | 🧱 Clean Architecture / MVVM / MVI 
 - 🎨 Passionate about crafting **smooth UI/UX**  
+<P>
 
-👨‍💻 Check out my CV: [*My CV*](https://drive.google.com/file/d/1HY0JuhY62dvQYu3GcjCfrjPRLRB0I8-t/view?usp=sharing)  
+<br><br><br>
 
 ---
 
